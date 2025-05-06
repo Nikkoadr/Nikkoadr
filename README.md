@@ -39,16 +39,6 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building sca
 
 ---
 
-## 🚀 Featured Projects
-
-| Project | Description | Tech Stack |
-|--------|-------------|------------|
-| [🎓 Moodle Dashboard](https://github.com/Nikkoadr/moodle-dashboard) | Custom reporting and analytics for Moodle LMS | Laravel, Vue.js, MySQL |
-| [📸 Face Attendance](https://github.com/Nikkoadr/face-attendance) | Absensi siswa berbasis deteksi wajah | Laravel, TensorFlow.js |
-| [🔧 Laravel-React Template](https://github.com/Nikkoadr/laravel-react-kit) | Full-stack starter kit with Sanctum auth | Laravel, React, MUI |
-
----
-
 ## 📈 GitHub Stats
 
 <p align="center">
