@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 ## 📫 Let's Connect
 
 - 🌐 [Portfolio Website](#) *(coming soon)*
-- 💼 [LinkedIn]([https://www.linkedin.com/in/Nikkoadr](https://www.linkedin.com/in/nikko-adrian-a1120b217/))
+- 💼 [LinkedIn](https://www.linkedin.com/in/nikko-adrian-a1120b217/)
 - ✉️ Email: nikkoadrian02@gmail.com
 
 ---
