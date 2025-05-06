@@ -73,7 +73,7 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building sca
 ## 📫 Let's Connect
 
 - 💼 [LinkedIn](https://www.linkedin.com/in/nikko-adrian-a1120b217/)
-- ✉️ Email: your.email@example.com
+- ✉️ Email: nikkoadrian02@gmail.com
 - 🌐 Portfolio: *(coming soon)*
 
 ---
