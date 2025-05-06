@@ -1,6 +1,20 @@
+<p align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=0d6efd&height=200&section=header&text=Nikko%20Adrian&fontSize=40&fontColor=ffffff" />
+</p>
+
 # 👋 Hi, I'm Nikko Adrian!
 
-Welcome to my GitHub profile! I'm a passionate developer with a strong interest in full-stack web development, system integration, and open source. I love building useful tools, learning new technologies, and solving real-world problems with code.
+Welcome to my GitHub profile! I'm a passionate developer focused on building scalable systems, impactful educational platforms, and clean, maintainable code.
+
+---
+
+## 🙋‍♂️ About Me
+
+- 🔭 I’m currently working on **AI-enhanced learning platforms**
+- 🌱 I’m learning **Machine Learning, Cloud Architecture, and DevSecOps**
+- 🧠 I enjoy solving problems with elegant code and efficient architecture
+- 💬 Ask me about **Laravel, Moodle, Kubernetes, or anything tech!**
+- ⚡ Fun fact: I love combining open-source with education!
 
 ---
 
@@ -17,12 +31,13 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 
 ---
 
-## 🧠 What I'm Working On
+## 🚀 Featured Projects
 
-- 🚀 Laravel + React integration projects
-- 📊 Moodle web service extensions and custom LMS dashboards
-- 🤖 AI-enhanced face recognition for attendance systems
-- 📡 Scalable deployments using Kubernetes and MetalLB
+| Project | Description | Tech Stack |
+|--------|-------------|------------|
+| [🎓 Moodle Dashboard](https://github.com/Nikkoadr/moodle-dashboard) | Custom reporting and analytics for Moodle LMS | Laravel, Vue.js, MySQL |
+| [📸 Face Attendance](https://github.com/Nikkoadr/face-attendance) | Absensi siswa berbasis deteksi wajah | Laravel, TensorFlow.js |
+| [🔧 Laravel-React Template](https://github.com/Nikkoadr/laravel-react-kit) | Full-stack starter kit with Sanctum auth | Laravel, React, MUI |
 
 ---
 
@@ -35,21 +50,24 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 
 ---
 
-## 🧩 Fun Facts
+## 🌎 GitHub Contribution Map
 
-- 🧑‍🏫 I'm actively involved in education technology and student assessment systems
-- 📚 Lifelong learner, especially in AI, DevOps, and Big Data
-- 🎯 Motto: *"Code with purpose, deploy with confidence!"*
+[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikkoadr&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+---
+
+## 🧩 Personal Motto
+
+> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
 
 ---
 
 ## 📫 Let's Connect
 
-- 🌐 [Portfolio Website](#) *(coming soon)*
 - 💼 [LinkedIn](https://www.linkedin.com/in/nikko-adrian-a1120b217/)
-- ✉️ Email: nikkoadrian02@gmail.com
+- ✉️ Email: your.email@example.com
+- 🌐 Portfolio: *(coming soon)*
 
 ---
 
-> ⭐ *Thank you for visiting! Don't forget to leave a ⭐ on projects you like!*
-
+> ⭐ *Thank you for visiting! Don’t forget to leave a ⭐ on any projects you like!*
