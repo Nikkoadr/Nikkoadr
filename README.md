@@ -8,24 +8,6 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building sca
 
 ---
 
-## 🙋‍♂️ About Me
-
-- 🔭 I’m currently working on **AI-enhanced learning platforms**
-- 🌱 I’m learning **Machine Learning, Cloud Architecture, and DevSecOps**
-- 🧠 I enjoy solving problems with elegant code and efficient architecture
-- 💬 Ask me about **Laravel, Moodle, Kubernetes, or anything tech!**
-- ⚡ Fun fact: I love combining open-source with education!
-
----
-
-## 🧩 Fun Facts
-
-- 🧑‍🏫 I'm actively involved in education technology and student assessment systems
-- 📚 Lifelong learner, especially in AI, DevOps, and Big Data
-- 🎯 Motto: *"Code with purpose, deploy with confidence!"*
-
----
-
 ## 🔧 Tech Stack & Tools
 
 ![Laravel](https://img.shields.io/badge/-Laravel-FF2D20?style=flat&logo=laravel&logoColor=white)
@@ -48,9 +30,21 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building sca
 
 ---
 
-## 🧩 Personal Motto
+## 🙋‍♂️ About Me
 
-> *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
+- 🔭 I’m currently working on **AI-enhanced learning platforms**
+- 🌱 I’m learning **Machine Learning, Cloud Architecture, and DevSecOps**
+- 🧠 I enjoy solving problems with elegant code and efficient architecture
+- 💬 Ask me about **Laravel, Moodle, Kubernetes, or anything tech!**
+- ⚡ Fun fact: I love combining open-source with education!
+
+---
+
+## 🧩 Fun Facts
+
+- 🧑‍🏫 I'm actively involved in education technology and student assessment systems
+- 📚 Lifelong learner, especially in AI, DevOps, and Big Data
+- 🎯 Motto: *"Code with purpose, deploy with confidence!"*
 
 ---
 
