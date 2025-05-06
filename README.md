@@ -29,8 +29,8 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 ## 📈 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=nikkoadrian&show_icons=true&theme=tokyonight" width="48%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=nikkoadrian&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Nikkoadr&show_icons=true&theme=tokyonight" width="48%" />
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Nikkoadr&theme=tokyonight" width="48%" />
 </p>
 
 ---
@@ -46,7 +46,7 @@ Welcome to my GitHub profile! I'm a passionate developer with a strong interest 
 ## 📫 Let's Connect
 
 - 🌐 [Portfolio Website](#) *(coming soon)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/Nikkoadr)
+- 💼 [LinkedIn]([https://www.linkedin.com/in/Nikkoadr](https://www.linkedin.com/in/nikko-adrian-a1120b217/))
 - ✉️ Email: nikkoadrian02@gmail.com
 
 ---
