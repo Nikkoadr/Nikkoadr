@@ -48,12 +48,6 @@ Welcome to my GitHub profile! I'm a passionate developer focused on building sca
 
 ---
 
-## 🌎 GitHub Contribution Map
-
-[![GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Nikkoadr&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
----
-
 ## 🧩 Personal Motto
 
 > *“Code is like humor. When you have to explain it, it’s bad.”* – Cory House
